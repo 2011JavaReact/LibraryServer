@@ -20,6 +20,7 @@ Enter the folder and run mvn clean package.
 Deploy the war file in the target folder on Tomcat's webapp folder.
 
 ## Home Page  
+http://3.129.148.58:8080/LibraryServer/static/index.html
 http://localhost:8080/LibraryServer/static/index.html
 or
 {ip-address}:{port}/LibraryServer/static/index.html
