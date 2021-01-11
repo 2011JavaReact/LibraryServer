@@ -20,13 +20,13 @@ The purpose of the front end is to allow users to see a list of books which the 
 * PostgreSQL
 
 ## Features
-# Ready Features
+### Ready Features
 1. See a list of books.
 2. Add a book by clicking on the "Add Book" link in the navbar. 
 3. Edit a book by clicking the "Edit" button on the table with the corresponding row.
 4. Delete a book by clicking the "X" button on the table with the corresponding row. 
 
-# Planned Improvements
+### Planned Improvements
 1. Filter book results by author/genre/title.
 2. Make the site more asthetically pleasing. 
 3. Allow for checking in/out books by users.
@@ -54,9 +54,9 @@ or
 {ip-address}:{port}/LibraryServer/static/index.html
 For example: http://3.129.148.58:8080/LibraryServer/static/index.html
 
-# Contributors
+## Contributors
 * Yasmine Sorhovigarat
 * Gray Dodgen
 
-# Lincense
+## Lincense
 None
